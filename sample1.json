@@ -1,0 +1,23 @@
+{
+	"data": [
+		{
+			"label": "L1 Ownership",
+			"values": [
+			    "Cross Cloud Allocations",
+				"Integration",
+				"Obsolete",
+				"Other",
+				"Platform",
+				"Success",
+				"Service",
+				"Marketing",
+				"Analytics",
+				"Sales",
+				"Commerce",
+				"Professional Services"
+			],
+		  "required": true,
+		  "source": "Product2 - L1_Business_Line__c"
+		}
+	]
+}
