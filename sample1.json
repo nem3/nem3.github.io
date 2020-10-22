@@ -1,15 +1,32 @@
 {
 	"data": [ 
 		{
-			"L1 Ownership": "Sales",
-			"L2 Ownership": "Sales Cloud",
-			"Customer Status": "Customer",
-			"Non-Profit Status": "false",
-			"Success Segment": "Onboard",
-			"Shipping Country": "UK",
-			"Support Level": "Premier",
-			"Objective": "Onboarding",
-			"Type": "Mixed"
+			"label": "sample 1",
+			"selections": {
+				"L1 Ownership": "Sales",
+				"L2 Ownership": "Sales Cloud",
+				"Customer Status": "Customer",
+				"Non-Profit Status": "false",
+				"Success Segment": "Onboard",
+				"Shipping Country": "UK",
+				"Support Level": "Premier",
+				"Objective": "Onboarding",
+				"Type": "Mixed"
+			}
+		},
+		{
+			"label": "sample 2",
+			"selections": {
+				"L1 Ownership": "Success",
+				"L2 Ownership": "Social Studio",
+				"Customer Status": "Prospect",
+				"Non-Profit Status": "false",
+				"Success Segment": "Grow",
+				"Shipping Country": "United States",
+				"Support Level": "Partner",
+				"Objective": "Use & Grow",
+				"Type": "Commercial"
+			}
 		}
 	]
 }
