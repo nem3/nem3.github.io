@@ -1,5 +1,6 @@
 {
-	"title": "Field Set 1",
+	"data": [
+		"title": "Field Set 1",
 	"data": [
 		{
 			"label": "L1 Ownership",
@@ -78,5 +79,6 @@
 		  "required": false,
 		  "source": "Product2 - L2_Product_Line__c"
 		}
+	]
 	]
 }
