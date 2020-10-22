@@ -1,0 +1,35 @@
+"data": {
+	"SQL": {
+		"L1 Ownership": "V_STREAM_TAM_PRODUCT",
+		"L2 Ownership": "1",
+		"Customer Status": "2",
+		"Non-Profit Status": "3",
+		"Success Segment": "4",
+		"Shipping Country": "5",
+		"Support Level": "6",
+		"Objective": "7",
+		"Type": "8"
+	},
+	"JSON": {
+		"L1 Ownership": "L1 Ownership",
+		"L2 Ownership": "L2 Ownership",
+		"Customer Status": "Customer Status",
+		"Non-Profit Status": "Non-Profit Status",
+		"Success Segment": "Success Segment",
+		"Shipping Country": "Shipping Country",
+		"Support Level": "Support Level",
+		"Objective": "Objective",
+		"Type": "Type"
+	},
+	"Salesforce:": {
+		"L1 Ownership": "Product2.L1_Business_Line__c",
+		"L2 Ownership": "Product2.L2_Product_Line__c",
+		"Customer Status": "Account.Customer_Status__c",
+		"Non-Profit Status": "Account.Non_Profit_Account__c",
+		"Success Segment": "Account.Success_Segment__c",
+		"Shipping Country": "Account.Country",
+		"Support Level": "Account.Support_Level__c",
+		"Objective": "",
+		"Type": ""
+	}
+}
