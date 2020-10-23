@@ -1,7 +1,13 @@
 {
 	"data": [
-			    "JSON",
-				"SQL",
-				"Salesforce"
+			    {
+			    	"label": "JSON"
+			    },
+			    {
+			    	"label": "Oracle DB"
+			    },
+			    {
+			    	"label": "Salesforce DB"
+			    }
 			]
 }
