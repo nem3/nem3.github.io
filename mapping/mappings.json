@@ -22,7 +22,7 @@
 			"Objective": "Objective",
 			"Type": "Type"
 		},
-		"Salesforce:": {
+		"Salesforce": {
 			"L1 Ownership": "Product2.L1_Business_Line__c",
 			"L2 Ownership": "Product2.L2_Product_Line__c",
 			"Customer Status": "Account.Customer_Status__c",
